@@ -1,2 +1,6 @@
-# AirBnB-Analysis-of-5-Major-U.S.-Cities
-A complete AirBnB listing analysis regarding 5 major U.S. cities, including Washington D.C., Boston, New York City, Los Angeles, and San Francisco
+# AirBnB Analysis of 5 Major U.S. Cities
+
+I will be doing a complete analysis on AirBnB listings across five major U.S. cities, including Washington D.C., Boston, New York City, Los Angeles, and San Francisco. Throughout this project, I will be covering various analytics regarding several factors in these AirBnB listings, such as the total number of listings, listings compared to population, categorizing the listings into price categories, the different types of rental rooms available, analyzing the most popular neighborhoods, looking at the neighborhoods by review score, the amenities that come with each listing, and finally an interactive experience that filters down AirBnB listings for a user based on his/her parameters.
+
+AirBnB is taking over the vacation-rental online marketplace as they make it so easy to seach and find rentals, whether that's for a weekend with your freinds in a new city or a week-long business trip. There is an estimated 660,000 listings on AirBnB across the whole United States, and just over 7 million listings world-wide, meaning there are thousands of different options when it comes to renting with AirBnB in just about every city across the world, making accessible and affordable rentals easier than ever before. I decided to do this analysis on AirBnB because I personally use AirBnB for renting places in just about every city I visit, and I wanted to learn more about how these listings correlate not only within single cities, but how they correlate and differ across multiple cities.
+
